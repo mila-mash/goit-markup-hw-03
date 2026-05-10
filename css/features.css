@@ -1,7 +1,6 @@
 .features-list {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   padding-left: 15px;
   padding-right: 15px;
   gap: 24px;
