@@ -1,0 +1,29 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-left: 15px;
+  padding-right: 15px;
+  gap: 24px;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
+
+.team-name,
+.team-position {
+  text-align: center;
+}
+
+.team-name {
+  margin: 32px 16px 8px 16px;
+}
+
+.team-position {
+  margin-bottom: 32px;
+}

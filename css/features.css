@@ -1,0 +1,16 @@
+.features-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-left: 15px;
+  padding-right: 15px;
+  gap: 24px;
+}
+
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+
+.features-title {
+  margin-bottom: 8px;
+}
